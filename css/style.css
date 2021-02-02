@@ -1,0 +1,38 @@
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #F6CECE;
+}
+
+.quem-somos {
+    background-color: #ce1010;
+    color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+.rounded-circle {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.croche {
+    background-color: #F6CECE;
+}
+.titulo {
+    color: seashell;
+}
+
+.produtos {
+    background-color: tomato;
+}
+
+.bg-footer {
+    background-color: orange;
+    color: papayawhip;
+}
